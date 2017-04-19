@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.istat.freedev.raka.tiki.boom">
+
+    <application android:allowBackup="true">
+        <activity android:name="android.istat.freedev.raka.tiki.boom.BoomActivity"></activity>
+    </application>
+
+</manifest>
